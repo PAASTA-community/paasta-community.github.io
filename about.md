@@ -20,9 +20,10 @@ We have various [events and a yearly workshop](/categories/events) with cycling 
 
 Please join us on our:
 
-- [**Slack channel**](https://join.slack.com/t/paasta-group/shared_invite/zt-2lm0o0hz5-Aduv3H7bsXQAHVbX9uoNyw)
-for day-to-day advice, help, brainstorming, news, networking, and socialising.
-- [**Twitter**](https://twitter.com/PAASTAcommunity) for latest news, polls, and publications.
+- [**Element channel**](https://matrix.to/#/#paasta:archaeo.social)
+for day-to-day advice, help, brainstorming, news, networking, and socialising. To join, see [**Element signing up instructions**](https://www.isbarch.org/chat)
+- [**Bluesky**](https://bsky.app/profile/paastacommunity.bsky.social) for latest news, polls, and publications.
+<!-- - [**Twitter**](https://twitter.com/PAASTAcommunity) for latest news, polls, and publications. -->
 - [**YouTube**](https://www.youtube.com/@PAASTAcommunity) for latest videos, lectures, recordings.
 - [**mailing list**](https://forms.gle/U5CwGZDDykAnVQpTA) for announcements, calls, and notices.
 
@@ -33,6 +34,8 @@ for day-to-day advice, help, brainstorming, news, networking, and socialising.
 -->
 
 To keep get involved and keep up-to-date!
+
+Previously our community used [**Slack**](https://join.slack.com/t/paasta-group/shared_invite/zt-2lm0o0hz5-Aduv3H7bsXQAHVbX9uoNyw) as its primary communication platform, but we have now transitioned to [**Element**](https://matrix.to/#/#paasta:archaeo.social). From April 2025 onwards the Slack channel will no longer be updated. You can find instructions on how to sign up for Element [**here**](https://www.isbarch.org/chat).
 
 If you have any questions or want to reach out for more info about our PAASTA community, [**the steering committee**](https://PAASTA-community.github.io/steering_committee/) is here to assist you.
 
