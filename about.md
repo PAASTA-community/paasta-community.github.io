@@ -21,7 +21,7 @@ We have various [events and a yearly workshop](/categories/events) with cycling 
 Please join us on our:
 
 - [**Element channel**](https://matrix.to/#/#paasta:archaeo.social)
-for day-to-day advice, help, brainstorming, news, networking, and socialising. To join, see [**Element signing up instructions**](https://www.isbarch.org/chat)
+for day-to-day advice, help, brainstorming, news, networking, and socialising. To join, see [**Element signing up instructions**](https://www.isbarch.org/chat).
 - [**Bluesky**](https://bsky.app/profile/paastacommunity.bsky.social) for latest news, polls, and publications.
 <!-- - [**Twitter**](https://twitter.com/PAASTAcommunity) for latest news, polls, and publications. -->
 - [**YouTube**](https://www.youtube.com/@PAASTAcommunity) for latest videos, lectures, recordings.
