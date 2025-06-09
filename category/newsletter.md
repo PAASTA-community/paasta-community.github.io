@@ -9,5 +9,5 @@ Below you will find a list of the previous editions of the PAASTA quarterly news
 If you would like to sign up to the newsletter [**mailing list**](https://forms.gle/U5CwGZDDykAnVQpTA), click the link to fill in the form.
 
 ## Previous newsletters
-[**2025_1**](/workspace/paasta-community.github.io/assets/files/PAASTA_Newsletter_2025_1.pdf)
-[**2025_2**](/workspace/paasta-community.github.io/assets/files/PAASTA_Newsletter_2025_2.pdf)
+[**2025_1**](https://drive.google.com/file/d/1BP4ekKb6PYXqt3goB3kNB9Pv2qFXi1y3/view?usp=sharing)<br/>
+[**2025_2**](https://drive.google.com/file/d/1xzXYoHVQ7u1gSrid0buLcHTbFobVKSIC/view?usp=sharing)
