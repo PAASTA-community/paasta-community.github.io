@@ -74,7 +74,7 @@ I am a Junior Researcher at Masaryk University, Brno, where I’m working on est
 
 Contact: weronika.cieszynska@mail.muni.cz weronika_cieszynska@eva.mpg.de
 
-<img src="/assets/media/LorenHowell.png" class="center" width="50%" >
+<img src="/assets/media/Loren_Howell.png" class="center" width="50%" >
 
 ### Loren Howell - Webmaster
 
@@ -84,7 +84,7 @@ Contact: Loren.Howell@anu.edu.au
 
 ## Roles:
 
-**Management team**: formed by the chair and the secretary. Responsible for ensuring the committee functions smoothly and achieves its goals.
+**Management Team**: formed by the chair and the secretary. Responsible for ensuring the committee functions smoothly and achieves its goals.
 
 - **Chair**: leads meetings, sets agendas, moderates discussions and delegates tasks to volunteer members. It represents the PAASTA community in any official meetings or interviews. They are also responsible for having an overview of the various initiatives by maintaining a close communication with the social media and event & engagement teams. Allows for discussion around long-term topics, needs to be forward thinking on this end.
 
