@@ -22,10 +22,10 @@ Please join us on our:
 
 - [**Element channel**](https://matrix.to/#/#paasta:archaeo.social)
 for day-to-day advice, help, brainstorming, news, networking, and socialising. To join, see [**Element signing up instructions**](https://www.isbarch.org/chat).
+- [**Instagram**](https://www.instagram.com/paasta.community/) for latest announcements, stories, news, and events.
 - [**Bluesky**](https://bsky.app/profile/paastacommunity.bsky.social) for latest news, polls, and publications.
-<!-- - [**Twitter**](https://twitter.com/PAASTAcommunity) for latest news, polls, and publications. -->
 - [**YouTube**](https://www.youtube.com/@PAASTAcommunity) for latest videos, lectures, recordings.
-- [**mailing list**](https://forms.gle/U5CwGZDDykAnVQpTA) for announcements, calls, and notices.
+- [**Mailing list**](https://forms.gle/U5CwGZDDykAnVQpTA) for announcements, calls, and notices.
 
 <!-- Add more of these later as they become applicable, also paraphrase above text on slack and twitter. Now direct copy from SPAAM.
 
