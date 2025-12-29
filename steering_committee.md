@@ -11,99 +11,76 @@ To begin with what the Steering Committee, it is a small committee, whose main r
 
 ## The Steering Committee Members
 
-<img src="/assets/media/ZandraFagernäs.png" class="center" width="50%" >
-
-Zandra Fagernäs - Chair
-
-I'm a postdoc in the Welker Group at the Globe Institute, University of Copenhagen. My research focuses on method development for palaeoproteomics of Pleistocene skeletal elements, as well as some amazing Pleistocene hominins around the world. Outside of work, I enjoy knitting, dancing, and hanging out with my postdog Tjorven!
-
-Contact: zandra.fagernas@sund.ku.dk,
-
 <img src="/assets/media/JanDekker.png" class="center" width="50%" >
 
-Jan Dekker - Vice-chair
+### Jan Dekker - Chair
 
-I am currently pursuing a joint PhD degree at the University of York and the University of Copenhagen. My research focuses on the role of charred foodcrusts as a reservoir of dietary proteins in an attempt to learn more about dietary change between the Danish Mesolithic and Neolithic. Apart from all that, I like to go running and hiking.
+I am a postdoc at the University of Turin and I am currently part of the AviArch project. My work focuses on expanding the number of bird species for which we have reference protein sequences and employing these sequences to facilitate palaeoclimate reconstruction based on the presence of breeding populations of certain species of birds. Apart from all that, I like to go running and hiking.
 
-Contact: jan@palaeome.org, [**twitter**](https://twitter.com/JAADekker)
+Contact: jan@palaeome.org
 
-<img src="/assets/media/CarliPeters.png" class="center" width="50%" >
+<img src="/assets/media/RachelWinter2.png" class="center" width="50%" >
 
-Carli Peters - Secretary
+### Rachel Winter - Vice Chair
 
-I am a postdoc in the Department of Archaeology at the Max Planck Institute of Geoanthropology in Jena, Germany. My research mostly focuses on the application of ZooMS in Australia, and I also am interested in ways to combine zooarchaeological and ZooMS datasets. Outside of work, I love to cook and play badminton!
+I am a postdoc at the University of Copenhagen working on multidisciplinary methods, including palaeoproteomics, applied to museum objects to study historic shark and ray exploitation. My research interests lie in marine historical ecology, ichthyoarchaeology, and conservation ecology with a particular fondness for elasmobranchs. Outside of the office I enjoy running, volleyball, baking, dogs, and listening to too much Taylor Swift (N.B. this also occurs in the office).
 
-<!-- Update
-Contact: light@mpiib-berlin.mpg.de, [**twitter**](http://twitter.com/ilight1542)
--->
+Contact: rachelwinter@palaeome.org
 
-<img src="/assets/media/PaulaKotli.png" class="center" width="50%" >
+<img src="/assets/media/BhavnaAlawat.png" class="center" width="50%" >
 
-Paula Kotli - Secretary
+### Bhavna Alawat - Vice Chair (& Social Media Officer)
 
-<!-- To be updated
+I am a postdoctoral researcher at the Indian Institute of Technology Gandhinagar, India. I am working towards building one of the first palaeoproteomics focused zooarchaeological research efforts in India, aiming to cover a broad geographic and spatiotemporal range. Apart from this, I enjoy watching movies, reading, and more recently learning to knit.
 
-Contact: gunnar_neumann@eva.mpg.de, [**twitter**](http://twitter.com/gunnar_neumann)
--->
+Contact: ahlawatbhavna58@gmail.com
 
-<img src="/assets/media/GwendolineMaurer.png" class="center" width="50%" >
+### Samantha Kirgesner - Secretary
 
-Gwendoline Maurer - Social Media Officer
+I am a PhD candidate at Ohio State University, and my research focuses on integrating ambient ionization to paleoproteomic research. I apply these ion sources to a range of methodologies, but I concentrate on their application to ZooMS. Outside of the lab, I enjoy hiking, listening and playing new music, and falling down my latest wikipedia rabbit hole.
 
-<!-- To be updated >
+Contact: kirgesner.4@osu.edu
 
-Contact: enelson@pasteur.fr, [**twitter**](http://twitter.com/eanelson42)
--->
+<img src="/assets/media/PaulineRaymond.png" class="center" width="50%" >
 
-<img src="/assets/media/RachelWinter.png" class="center" width="50%" >
+### Pauline Raymond - Secretary (& Events-Engagement Officer)
 
-Rachel Winter - Social Media Officer
+I am a PhD candidate at the Collège de France in Paris. My research focuses on the application of ZooMS to highly fragmented bone fragments from Pleistocene contexts. I use it particularly on Neanderthal cannibalism sites, integrating it with zooarchaeological and taphonomic analyses. I also love cats, hiking, dancing, and books!
 
-I am a postdoc in Arctic ecogeochemistry at the Centre de Recherche sur la Biodiversité et l’Environnement (CRBE), Université of Toulouse. I am interested in using multidisciplinary approaches and biomolecular methods of analysis for historical ecology with partialities for paleoproteomics, marine ecosystems, and the Mediterranean. I enjoy hiking, dogs, baking, and listening to Taylor Swift.
+Contact: pauline.raymond@college-de-france.fr
 
-Contact: rachelwinter@palaeome.org, [**twitter**](https://twitter.com/RachelMWinter_).
+<img src="/assets/media/RaijaHeikkilä.png" class="center" width="50%" >
 
-<img src="/assets/media/HelenFewlass.png" class="center" width="50%" >
+### Raija Heikkilä - Social Media Officer
 
-Helen Fewlass - Event and Engagement Officer
+I am a PhD student in the Palaeoanthropology research group at Collège de France. My research focuses on combining palaeoproteomics with traditional zooarchaeological methods to study hominin behaviour and site use in North Africa. In my free time, I enjoy writing poetry, devouring books, jogging in the snow, and spending time with my cat.
 
-<!-- To be updated
+Contact: raija-katarina.heikkila@college-de-france.fr 
 
-Contact: k.t.ozdogan@uu.nl, [**twitter**](http://twitter.com/toykanozdogan)
--->
+<img src="/assets/media/ViridianaVillaIslas.png" class="center" width="50%" >
 
-<img src="/assets/media/LindseyPaskulin.png" class="center" width="50%" >
+### Viridiana Villa Islas - Events & Engagement Officer
 
-Lindsey Paskulin  - Event and Engagement Officer
+I come from 🇲🇽 and work as a postdoctoral researcher at the Biomolecular Palaeoanthropology Group in the Globe Institute, University of Copenhagen. My research focuses on the taxonomic/phyloproteomic analysis of ancient hominin skeletal remains using palaeoproteomics and the creation of databases for this purpose. I love dancing (anything!), going to Sauna Gus, and being at the beach.
 
-I am a PhD Candidate and the lab manager for ADaPT Laboratory Facilities, a centre for ancient DNA and protein analysis led by Dr. Camilla Speller at the University of British Columbia in Vancouver. My PhD research is focused on the extraction of proteins from pottery residues, particularly in Mexico and Peru for understandings of past foodways and cuisine. As the lab manager for ADaPT, I also regularly apply ZooMS to a wide range of materials for taxonomic identification.
+Contact: viridiana.villa.islas@sund.ku.dk  BlueSky: @VVillaIslas 
 
-Contact: lindseypaskulin@palaeome.org, [**twitter**](https://twitter.com/lpaskulin).
 
-<img src="/assets/media/LauraCaron.png" class="center" width="50%" >
+<img src="/assets/media/WeronikaCieszyńska.png" class="center" width="50%" >
 
-Laura Viñas Caron - Support Officer
+### Weronika Cieszyńska - Treasurer
 
-I am a postdoctoral researcher at the Centre for Textile Research and Globe Institute, University of Copenhagen. I am interested in understanding the evolutionary journey of domesticated animals using ancient proteins and DNA. I love cooking, books and films!
+I am a Junior Researcher at Masaryk University, Brno, where I’m working on establishing the ZooMS workflow. I use ZooMS to explore human subsistence strategies across history, focusing on animal assemblages from Central Europe. When I’m not in the lab, you can usually find me doing pilates, baking something sweet, or sewing my latest project.
 
-Contact: laura@palaeome.org
+Contact: weronika.cieszynska@mail.muni.cz weronika_cieszynska@eva.mpg.de
 
-<img src="/assets/media/LouiseLeMeillour.png" class="center" width="50%" >
+<img src="/assets/media/LorenHowell.png" class="center" width="50%" >
 
-Louise Le Meillour - Support Officer
+### Loren Howell - Webmaster
 
-I am a MSCA postdoc at Globe Institute, University of Copenhagen, Denmark. I did my PhD in the Natural History Museum in Paris, France where I studied the potential of ancient proteins for tracing the first Caprinae both in eastern and southern Africa. During my postdoc, I am mainly interested in studying ancient biomolecules in arid environments, especially concerning the advent of domestication and food production. I guess I really like challenges since dry and arid environments are not the best for preservation! I am really excited by the PAASTA community to grow and thrive, and we'll do my best to help in the process!
+I am a Masters Research student at the Australian National University, using palaeoproteomics for taxonomic identification in early midden deposits from the first waves of human settlements throughout the Pacific. Outside of this you’ll find me visiting my family at the beach, taking my cat on adventures, or planning my next holiday.
 
-<img src="/assets/media/MariaCodlin.png" class="center" width="50%" >
-Maria Codlin - Support Officer
-
-<img src="/assets/media/Johanna_Krueger.png" class="center" width="50%" >
-
-Johanna Krueger - Newsletter manager
-
-I work on ancient proteins for evolutionary studies. For that, I have studied modern and ancient dental enamel proteins from primates and equids. I obtained my PhD from the Pompeu Fabra University in Barcelona, where I am currently located.
-
-Contact: uni.johanna.krueger@gmail.com
+Contact: Loren.Howell@anu.edu.au
 
 ## Roles:
 
@@ -111,24 +88,22 @@ Contact: uni.johanna.krueger@gmail.com
 
 - **Chair**: leads meetings, sets agendas, moderates discussions and delegates tasks to volunteer members. It represents the PAASTA community in any official meetings or interviews. They are also responsible for having an overview of the various initiatives by maintaining a close communication with the social media and event & engagement teams. Allows for discussion around long-term topics, needs to be forward thinking on this end.
 
--**Vice-chair**: supports the chair in their role and takes over the chair's responsibilities in case of their absence.
+- **Vice-chair**: supports the chair in their role and takes over the chair's responsibilities in case of their absence.
 
 - **Secretary**: Takes meeting minutes, sends them out via slack when they are ready, makes sure that assignments are noted. Organisational responsibilities (ie keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time
 
-<!-- Should be added in due time
-**Treasurer team**
+**Treasurer Team**
 
 The treasurer team is responsible for managing the funds, for the communication related to funds and responsible for allocating funding to initiatives by serving as a line of communication between the organising committees and the Steering Committee. The treasurer team is also responsible to collect funds as well as finding grant opportunities to continue to fund PAASTA initiatives.
--->
 
-**Social media team**
+**Social Media Team**
 
 The social media team is responsible for the outreach of the community, by tweeting, emailing as well as updating the website. Social media officers will announce new initiatives, conferences, papers and jobs that are relevant for the PAASTA community. They will also be responsible for maintaining the YouTube channel of the community.
 
-**Engagement team**
+**Events & Engagement Team**
 
-The engagement officers are responsible for coming up with new initiatives (projects, summer schools, outreach activities, etc.) and propose them to the community. They will also oversee ongoing initiatives and provide support for them to reach their goals. They will ensure that the initiative is known in the community, as well as outside the community together with the media team. As well as suggesting potential funding sources for the initiative, by engaging with the treasurer team. 
+The event and engagement officers are responsible for coming up with new initiatives (projects, summer schools, outreach activities, etc.) and propose them to the community. They will also oversee ongoing initiatives and provide support for them to reach their goals. They will ensure that the initiative is known in the community, as well as outside the community together with the media team. As well as suggesting potential funding sources for the initiative, by engaging with the treasurer team. 
 
-**Support team**
+**Support Team**
 
 In contrast to the other roles in the steering committee, the support team does not have a single defined task. Instead, its primary role is to support the other members of the steering committee where necessary in case of increased workload.
