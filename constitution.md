@@ -10,7 +10,7 @@ sidebar_link: true
 
 PAASTA is a community of researchers from around the world focusing on paleoproteomics affiliated with the International Society of Biomolecular Archaeology
 
--Our primary community space is on Slack, and we also have an annual conference and other online events.
+-Our primary community space is on Element, and we also have an annual conference and other online events.
 
 -All career stages are invited, but the emphasis is on providing a welcoming space for early-career researchers.
 
@@ -25,14 +25,14 @@ PAASTA is a community of researchers from around the world focusing on paleoprot
 
 PAASTA stands for Palaeoproteomics And Archaeology, Society for Techniques and Advances. We are a community of researchers from around the world focusing on paleoproteomics.
 
-We aim to openly share knowledge and experience to find solutions to common challenges and obstacles that the field faces, primarily within online community spaces (Slack). We run various collaborative projects for the benefit of the whole community and to progress the field including an annual conference for early career researchers. We have various events throughout the year  with cycling organisation committees to improve networking.
+We aim to openly share knowledge and experience to find solutions to common challenges and obstacles that the field faces, primarily within online community spaces (Element). We run various collaborative projects for the benefit of the whole community and to progress the field including an annual conference for early career researchers. We have various events throughout the year  with cycling organisation committees to improve networking.
 
 The idea of PAASTA originated in 2023 during the International Society for Biomolecular Archaeology biannual conference in Tartu, Estonia and was inspired by the communities built by SPAAM and HAAM. It has been designed to be an open, supportive community led by early career researchers to promote collaborative and open science within paleoproteomics. We have been associated with the International Society of Biomolecular Archaeology since our inception in 2023.
 
 
 ## Location 
 
-Our main community space is Slack. We also gather either in-person or online for an annual conference and online for various events. We keep information about the community archived on our website, along with information on how to get involved.
+Our main community space is Element. We also gather either in-person or online for an annual conference and online for various events. We keep information about the community archived on our website, along with information on how to get involved.
 
 ## Membership
 
