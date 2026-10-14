@@ -25,3 +25,12 @@ If you would like to sign up to the newsletter [**mailing list**](https://forms.
 [**2026_1 (PDF)**]({{ '/assets/files/PAASTA_Newsletter_2026_1.pdf' | relative_url }})
 ·
 <a href="{{ '/assets/files/PAASTA_Newsletter_2026_1.pdf' | relative_url }}" download>Download</a><br>
+[**2026_2 (PDF)**]({{ '/assets/files/PAASTA_Newsletter_2026_2.pdf' | relative_url }})
+·
+<a href="{{ '/assets/files/PAASTA_Newsletter_2026_2.pdf' | relative_url }}" download>Download</a><br>
+[**2026_3 (PDF)**]({{ '/assets/files/PAASTA_Newsletter_2026_3.pdf' | relative_url }})
+·
+<a href="{{ '/assets/files/PAASTA_Newsletter_2026_3.pdf' | relative_url }}" download>Download</a><br>
+[**2026_4 (PDF)**]({{ '/assets/files/PAASTA_Newsletter_2026_4.pdf' | relative_url }})
+·
+<a href="{{ '/assets/files/PAASTA_Newsletter_2026_4.pdf' | relative_url }}" download>Download</a><br>
